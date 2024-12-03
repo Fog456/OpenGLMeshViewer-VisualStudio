@@ -1,0 +1,8 @@
+# ignores following folders
+.idea
+.vs
+
+build/
+cmake-build-debug/
+bin/
+out/
